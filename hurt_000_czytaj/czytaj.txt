@@ -1,0 +1,9 @@
+1. Procedury do przeszukwiania latwo robudowac
+o petle while gdy np. spranosc < 90%-
+2. dane ³atwo mieszac z calego zrbioru za pomoca randperm, mozna to ³atwo robudowac
+3. ogolnie procedury juz sa latwe do poprawienia
+4. Procedury do hurtowgo trenowania sa na dvd (prosze przeszukac katalogii), ktore da³em Wojciechowi J.,
+Pani Dr chyba je ma
+5. Ciekawe procedura hurt_start_02_while i hurt_start_03_while_max ;]
+- prosze przjrzec te procedury, ma³o by³y testowane
+6. Moj mail miroslaw.dyduch@gmail.com

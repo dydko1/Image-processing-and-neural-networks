@@ -1,0 +1,3 @@
+Proszê posprawdzaæ procedury !
+Dodane ma iteracje
+wybiera max nauczanon¹ siec z "n" nauczonych
